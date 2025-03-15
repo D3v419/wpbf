@@ -1,0 +1,16 @@
+admin:password
+admin:123456
+admin:qwerty
+admin:letmein
+user:password
+user:123456
+user:qwerty
+user:letmein
+test:password
+test:123456
+test:qwerty
+test:letmein
+wpadmin:password
+wpadmin:123456
+wpadmin:qwerty
+wpadmin:letmein
